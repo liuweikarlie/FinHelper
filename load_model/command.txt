@@ -1,0 +1,4 @@
+.\build\bin\Release\main.exe -m ../merge_q4.gguf --color -f prompts/alpaca.txt -ins -c 2048 --temp 0.2 -n 256 --repeat_penalty 1.3
+
+./main -m ../autodl-fs/merge_q4.gguf --color -f prompts/alpaca.txt -ins -c 2048 --temp 0.2 -n 256 --repeat_penalty 1.3
+

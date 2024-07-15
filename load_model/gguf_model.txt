@@ -1,0 +1,3 @@
+you can download our model in gguf version in this link:
+
+https://huggingface.co/liukarlie/forecast1/tree/main
